@@ -3,7 +3,7 @@
 
 I started as a data science intern at Oasis Infobyte and had five tasks to perform. Here were the tasks and their sources.
 
-## Acknowledgements
+## Tasks
 
  - [Task 1 - Iris Flower Classification](https://github.com/Wydoinn/OIBSIP/tree/main/Task%201%20-%20Iris%20Flower%20Classification)
  - [Task 2 - Unemployment Analysis With Python](https://github.com/Wydoinn/OIBSIP/tree/main/Task%202%20-%20Unemployment%20Analysis%20With%20Python)
